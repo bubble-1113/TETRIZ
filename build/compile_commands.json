@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/shixinrui/CPP/TETRIZ/build",
+  "command": "/opt/anaconda3/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/tetriz.dir/main.cpp.o -c /Users/shixinrui/CPP/TETRIZ/main.cpp",
+  "file": "/Users/shixinrui/CPP/TETRIZ/main.cpp",
+  "output": "CMakeFiles/tetriz.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/shixinrui/CPP/TETRIZ/build",
+  "command": "/opt/anaconda3/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/tetriz.dir/terminal.cpp.o -c /Users/shixinrui/CPP/TETRIZ/terminal.cpp",
+  "file": "/Users/shixinrui/CPP/TETRIZ/terminal.cpp",
+  "output": "CMakeFiles/tetriz.dir/terminal.cpp.o"
+}
+]

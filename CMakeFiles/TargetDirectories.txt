@@ -1,0 +1,3 @@
+/Users/shixinrui/CPP/TETRIZ/CMakeFiles/tetriz.dir
+/Users/shixinrui/CPP/TETRIZ/CMakeFiles/edit_cache.dir
+/Users/shixinrui/CPP/TETRIZ/CMakeFiles/rebuild_cache.dir
